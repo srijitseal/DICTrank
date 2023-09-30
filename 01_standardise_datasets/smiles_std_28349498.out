@@ -1,0 +1,3 @@
+MOA
+INFO: Pandarallel will run on 76 workers.
+INFO: Pandarallel will use Memory file system to transfer data between the main process and workers.
