@@ -17,7 +17,7 @@
 source ~/miniconda3/etc/profile.d/conda.sh
 conda activate my-rdkit-env
 
-datasets=("MOA")
+datasets=("DrugBank")
 
 for dataset in "${datasets[@]}"; do
      
