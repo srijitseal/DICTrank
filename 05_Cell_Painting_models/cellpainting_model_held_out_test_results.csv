@@ -1,0 +1,494 @@
+Dataset,Actviity,SMILES,True_Value,Prediction,Probability,Best_Threshold
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),O=C(C1CCCCC1)[NH+]1CC(=O)[NH+]2CCc3ccccc3C2C1,1,1,0.6988632667895535,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C(=O)[O-])c1ccc(-c2ccccc2)c(F)c1,1,0,0.490610890803992,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH+](C)CCC=C1c2ccccc2CCc2ccccc21,1,1,0.7024998304942786,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(=O)[NH+]1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,1,1,0.5957729641875742,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,1,1,0.5888959717185226,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C)Cc1ccc(C(C)C(=O)[O-])cc1,1,1,0.7215027079240527,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),O=c1n(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,1,1,0.6156935291101988,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),OCCOCC[NH+]1CC[NH+](C(c2ccccc2)c2ccc(Cl)cc2)CC1,1,1,0.6105112280671058,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),NC(=O)N1c2ccccc2C=Cc2ccccc21,1,1,0.7548779726383356,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),NN=c1[n-]ncc2ccccc12,1,0,0.45641208893991775,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH+](C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,1,0,0.3968409293946765,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1ccc(CC[NH+](C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,1,1,0.7151695643161194,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH2+]CCC(Oc1ccccc1C)c1ccccc1,1,1,0.5694468265002672,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH2+]CCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,1,1,0.7060639057538054,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH2+]CCC=C1c2ccccc2CCc2ccccc21,1,1,0.709017919275373,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(c7coc([O-])c7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,1,1,0.6054677336781387,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC1COc2c(N3CC[NH+](C)CC3)c(F)cc3c(=O)c(C(=O)[O-])cn1c23,1,1,0.709900110939701,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),O=C1[N-]C(=O)C(c2ccccc2)(c2ccccc2)N1,1,0,0.4918610610349159,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C)[NH2+]CC(O)c1ccc(NS(C)(=O)=O)cc1,1,1,0.6777022040353805,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCOC(=O)C1=C(COCC[NH3+])N=C(C)C(C(=O)OC)C1c1ccccc1Cl,1,1,0.6599324014475545,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1ccc(C2Sc3ccccc3N(CC[NH+](C)C)C(=O)C2OC(C)=O)cc1,1,1,0.7480980876058493,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCC[NH2+]1,1,1,0.6599018544096544,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC[NH+](CC)CCCC(C)N=c1cc[n-]c2cc(Cl)ccc12,1,1,0.6529138859459396,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC[NH+]1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC,1,1,0.5699068318026093,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),N=c1[n-]c(Cl)nc2c1ncn2C1CC(O)C(CO)O1,1,0,0.41555725876300004,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCC[NH+](CCC)CCc1cccc2[n-]c([O-])cc12,1,1,0.5565565400893856,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),O=C([O-])c1cn(C2CC2)c2cc(N3CC[NH2+]CC3)c(F)cc2c1=O,1,0,0.5140616949528789,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C)[NH2+]CC(O)COc1ccc(CC(N)=O)cc1,1,1,0.6200268078915182,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC1=C(CC(=O)[O-])c2cc(F)ccc2C1=Cc1ccc([S+](C)O)cc1,1,1,0.6549381857505963,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Cc1cccc(C)c1OCC(C)[NH3+],1,1,0.7507012917416458,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,1,1,0.577309332269321,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),O=C([O-])Cc1ccccc1Nc1c(Cl)cccc1Cl,1,1,0.6053716590125142,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C)(C)NC(=O)C1CC2CCCCC2C[NH+]1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,1,1,0.7008969739773824,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),O=C(CCC[NH+]1CC=C(n2c(=O)[n-]c3ccccc32)CC1)c1ccc(F)cc1,1,1,0.6588612787133115,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1ccccc1OCC[NH2+]CC(O)COc1cccc2[nH]c3ccccc3c12,1,0,0.5222486990068415,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Cc1ccc(C(=O)c2ccc(CC(=O)[O-])n2C)cc1,1,1,0.6570002840672697,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Cn1c(=O)c2c(ncn2C)n(C)c1=O,1,0,0.4766208673795086,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Fc1ccc(C2CC[NH2+]CC2COc2ccc3c(c2)OCO3)cc1,1,1,0.5744180511293472,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH+]1C(C(=O)N=c2cccc[n-]2)C(=O)c2ccccc2S1(=O)=O,1,1,0.5686098343352741,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1ccc2c(c1)c(CC(=O)[O-])c(C)n2C(=O)c1ccc(Cl)cc1,1,1,0.6414315172656961,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCOC(=O)C(CCc1ccccc1)[NH2+]C(C)C(=O)[NH+]1C(C(=O)[O-])CC2CCCC21,1,1,0.7183639021897896,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1ccc2[n-]c([S+](O)Cc3ncc(C)c(OC)c3C)nc2c1,1,1,0.6580625129798405,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C=CC[NH+]1CCC23c4c5ccc([O-])c4OC2C(=O)CCC3(O)C1C5,1,1,0.7628895723074962,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),NC(=[NH2+])N=c1[n-]c(CSCCC(=[NH2+])NS(N)(=O)=O)cs1,1,0,0.4099242223959885,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCc1c(C)[nH]c2c1C(=O)C(C[NH+]1CCOCC1)CC2,1,1,0.7211390910167053,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1cc2[n-]c(N3CC[NH+](C(=O)c4ccco4)CC3)nc(=N)c2cc1OC,1,0,0.49982282556268076,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Clc1ccc2c(c1)C(N1CC[NH2+]CC1)=[NH+]c1ccccc1O2,1,1,0.6806473504786471,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH2+]CCCC1c2ccccc2C=Cc2ccccc21,1,1,0.5367707157443664,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC[NH+](CC)CCOC(=O)c1ccc(N)cc1,1,1,0.5430028845483436,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC[NH+](CC)CCOC(=O)C1(C2CCCCC2)CCCCC1,1,1,0.5512502904441233,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCC[NH+](CC)CC)c(I)c1,1,1,0.6247478729031612,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCc1nn(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,1,0,0.5060890468978364,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH+]=C(C[N+](=O)[O-])NCCSCc1csc(C[NH+](C)C)n1,1,0,0.5162736989187094,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C[NH+]1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,1,1,0.7264050991699057,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)[NH+]2C1C(=O)[O-],1,1,0.6733466391911407,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC1C(=NC(=O)C([NH2+]OC(C)(C)C(=O)[O-])c2csc(=N)[n-]2)C(=O)N1S(=O)(=O)[O-],1,0,0.4699272965027392,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1cc([NH2+]C(C)CCC[NH3+])c2ncccc2c1,1,1,0.6243504584781795,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)[NH+]2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)=CC(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,1,0,0.3451988955285577,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C=C(CC)C(=O)c1ccc(OCC(=O)[O-])c(Cl)c1Cl,1,0,0.30472176662062844,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Cc1ccc(C)c(OCCCC(C)(C)C(=O)[O-])c1,1,1,0.7863322606146964,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C)[NH2+]CC(O)COc1cccc2[nH]ccc12,1,0,0.5185459843000063,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(=O)OCC(CCn1cnc2c[n-]c(=N)nc21)COC(C)=O,1,1,0.5365822665157998,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),NS(=O)(=O)c1cc2c(cc1Cl)[NH+]=CNS2(=O)=O,1,1,0.5547960775152696,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,1,1,0.6505188682722616,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),N=c1[n-]c2ccc(OC(F)(F)F)cc2s1,1,1,0.5761389351732941,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(=O)N=c1[n-]nc(S(N)(=O)=O)s1,0,0,0.4992805899876663,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCCSc1ccc2[n-]c(=NC(=O)OC)[n-]c2c1,0,1,0.5359982541931511,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCOC(=O)[NH+]1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,0,1,0.6516273239706087,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C)(C(=O)[O-])c1ccc(C(O)CCC[NH+]2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,0,1,0.694592741055533,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC[NH+](CC)C(=S)SSC(=S)[NH+](CC)CC,0,1,0.6119518052511118,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCC[NH+](CCC)S(=O)(=O)c1ccc(C(=O)[O-])cc1,0,0,0.5181555927098433,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1[O-],0,0,0.3974263019059524,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCC1(c2ccccc2)C(=O)NCNC1=O,0,1,0.6723498433865186,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[n-]cnc12,0,0,0.34910729241004135,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2,0,0,0.4713657993523851,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COC(=O)N=c1[n-]c2ccc(C(=O)c3ccccc3)cc2[n-]1,0,0,0.5254236694348178,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)[NH+](C)C1,0,0,0.5089385633382216,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Clc1ccccc1C[NH+]1CCc2sccc2C1,0,0,0.39307525788181896,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1cc(C(=O)NCc2ccc(OCC[NH+](C)C)cc2)cc(OC)c1OC,0,0,0.48970217589941933,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1cc(Cc2c[n-]c(=N)[n-]c2=N)cc(OC)c1OC,0,1,0.8005064695401916,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,0,1,0.6261246532071205,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),COc1ccnc(C[S+](O)c2nc3cc(OC(F)F)ccc3[n-]2)c1OC,0,1,0.6229983715412916,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC1=C(C(=O)[O-])[NH+]2C(=O)C(NC(=O)C([NH3+])c3ccc([O-])cc3)C2SC1,0,1,0.5360946156625915,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CON=C(C(=O)NC1C(=O)[NH+]2C(C(=O)[O-])=C(COC(N)=O)CSC12)c1ccco1,0,1,0.6026559173504613,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC[NH+]1CC[NH+](C(=O)NC(C(=O)NC2C(=O)[NH+]3C2SC(C)(C)C3C(=O)[O-])c2ccccc2)C(=O)C1=O,0,1,0.5765104683383838,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),Cc1nnc(SC=C2CSC3C(NC(=O)Cn4cnnn4)C(=O)[NH+]3C2C(=O)[O-])s1,0,1,0.6039135165549863,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),CC(=O)CC(c1ccccc1)c1c([O-])c2ccccc2oc1=O,0,1,0.6667801929447182,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc([O-])cc2)[NH+]1c1ccc(F)cc1,0,0,0.46065397165758376,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),C=CC1=C(C(=O)[O-])[NH+]2C(=O)C(=NC(=O)C([NH2+]OCC(=O)[O-])c3csc(=N)[n-]3)C2SC1,0,1,0.640106545927221,0.5317221188692127
+cardiotox_with_sider_inactives,Cardiotox (with SIDER inactives),N=c1[n-]c(=N)c2nc(-c3ccccc3)c(=N)[n-]c2[n-]1,0,1,0.6499282514387662,0.5317221188692127
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH+]1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,1,1,0.9261724189392825,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH+]=C(C[N+](=O)[O-])NCCSCc1csc(C[NH+](C)C)n1,1,0,0.8169895187966384,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1ccc2c(c1)c(CC(=O)[O-])c(C)n2C(=O)c1ccc(Cl)cc1,1,1,0.8752106079338101,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH+]1C(C(=O)N=c2cccc[n-]2)C(=O)c2ccccc2S1(=O)=O,1,0,0.7916014214143019,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)[NH+]2C1C(=O)[O-],1,1,0.8685798801051008,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCc1nn(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,1,1,0.8700549395468908,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCc1c(C)[nH]c2c1C(=O)C(C[NH+]1CCOCC1)CC2,1,1,0.8474160960493851,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),NC(=[NH2+])N=c1[n-]c(CSCCC(=[NH2+])NS(N)(=O)=O)cs1,1,1,0.9520068620534307,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C=CC[NH+]1CCC23c4c5ccc([O-])c4OC2C(=O)CCC3(O)C1C5,1,1,0.9242919719349637,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1cc2[n-]c(N3CC[NH+](C(=O)c4ccco4)CC3)nc(=N)c2cc1OC,1,1,0.9157625122333851,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1ccc2[n-]c([S+](O)Cc3ncc(C)c(OC)c3C)nc2c1,1,1,0.9000695115417502,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Cc1ccc(C(=O)c2ccc(CC(=O)[O-])n2C)cc1,1,1,0.9286516915407493,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Cn1c(=O)c2c(ncn2C)n(C)c1=O,1,0,0.7808625611681566,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Fc1ccc(C2CC[NH2+]CC2COc2ccc3c(c2)OCO3)cc1,1,1,0.9082763798506125,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCC[NH2+]1,1,1,0.9646767032164427,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1ccc(C2Sc3ccccc3N(CC[NH+](C)C)C(=O)C2OC(C)=O)cc1,1,1,0.8868222977256448,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH2+]CCC=C1c2ccccc2CCc2ccccc21,1,1,0.9651617076139388,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH2+]CCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,1,1,0.9343136511044686,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH2+]CCC(Oc1ccccc1C)c1ccccc1,1,1,0.9630297186868662,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1ccc(CC[NH+](C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,1,1,0.972226468836017,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCOC(=O)C1=C(COCC[NH3+])N=C(C)C(C(=O)OC)C1c1ccccc1Cl,1,1,0.9702010373499385,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,1,1,0.8640482127626334,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(=O)[NH+]1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,1,1,0.8928721765824057,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH+](C)CCC=C1c2ccccc2CCc2ccccc21,1,1,0.84403934182853,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C(=O)[O-])c1ccc(-c2ccccc2)c(F)c1,1,0,0.7920667629582836,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),O=c1n(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,1,1,0.8810440731706963,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C)[NH2+]CC(O)c1ccc(NS(C)(=O)=O)cc1,1,1,0.9484384993303339,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),O=C1[N-]C(=O)C(c2ccccc2)(c2ccccc2)N1,1,1,0.8951367828940081,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH+](C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,1,1,0.9611041100108291,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),O=C(C1CCCCC1)[NH+]1CC(=O)[NH+]2CCc3ccccc3C2C1,1,1,0.9507867309255241,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C)Cc1ccc(C(C)C(=O)[O-])cc1,1,1,0.8985960032224413,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(c7coc([O-])c7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,1,1,0.920118844194817,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C[NH2+]CCCC1c2ccccc2C=Cc2ccccc21,1,1,0.9291533043393788,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCC[NH+](CC)CC)c(I)c1,1,1,0.9331065510370398,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Clc1ccc2c(c1)C(N1CC[NH2+]CC1)=[NH+]c1ccccc1O2,1,1,0.951423693943809,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC1COc2c(N3CC[NH+](C)CC3)c(F)cc3c(=O)c(C(=O)[O-])cn1c23,1,1,0.900108708736519,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC[NH+](CC)CCOC(=O)c1ccc(N)cc1,1,1,0.9484494507629683,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC[NH+](CC)CCOC(=O)C1(C2CCCCC2)CCCCC1,1,1,0.925129979573753,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCOC(=O)C(CCc1ccccc1)[NH2+]C(C)C(=O)[NH+]1C(C(=O)[O-])CC2CCCC21,1,1,0.920199498086126,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC1C(=NC(=O)C([NH2+]OC(C)(C)C(=O)[O-])c2csc(=N)[n-]2)C(=O)N1S(=O)(=O)[O-],1,0,0.8169963153294403,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1cc([NH2+]C(C)CCC[NH3+])c2ncccc2c1,1,1,0.9035082195144897,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)[NH+]2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)=CC(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,1,1,0.9382340905584737,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C=C(CC)C(=O)c1ccc(OCC(=O)[O-])c(Cl)c1Cl,1,1,0.9392115437677169,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,1,1,0.8486673602054285,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Cc1ccc(C)c(OCCCC(C)(C)C(=O)[O-])c1,1,1,0.8940533049972452,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C)[NH2+]CC(O)COc1cccc2[nH]ccc12,1,0,0.800595998644305,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(=O)OCC(CCn1cnc2c[n-]c(=N)nc21)COC(C)=O,1,1,0.93499696728961,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),NS(=O)(=O)c1cc2c(cc1Cl)[NH+]=CNS2(=O)=O,1,0,0.7760848165576011,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),N=c1[n-]c2ccc(OC(F)(F)F)cc2s1,1,0,0.82592181570251,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),NN=c1[n-]ncc2ccccc12,1,0,0.824068648837395,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),O=C([O-])c1cn(C2CC2)c2cc(N3CC[NH2+]CC3)c(F)cc2c1=O,1,0,0.786772572182457,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C)[NH2+]CC(O)COc1ccc(CC(N)=O)cc1,1,1,0.9015887842183126,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),N=c1[n-]c(Cl)nc2c1ncn2C1CC(O)C(CO)O1,1,1,0.8814219754270844,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCC[NH+](CCC)CCc1cccc2[n-]c([O-])cc12,1,1,0.9507024512653381,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Cc1cccc(C)c1OCC(C)[NH3+],1,1,0.9497676310840365,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC1=C(CC(=O)[O-])c2cc(F)ccc2C1=Cc1ccc([S+](C)O)cc1,1,1,0.8800436392707023,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC[NH+]1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC,1,0,0.6358359103768197,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC[NH+](CC)CCCC(C)N=c1cc[n-]c2cc(Cl)ccc12,1,1,0.9098273056769174,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,1,0,0.6596483373428937,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),NC(=O)N1c2ccccc2C=Cc2ccccc21,1,1,0.8475352966518179,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),OCCOCC[NH+]1CC[NH+](C(c2ccccc2)c2ccc(Cl)cc2)CC1,1,1,0.873016438821716,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),O=C(CCC[NH+]1CC=C(n2c(=O)[n-]c3ccccc32)CC1)c1ccc(F)cc1,1,1,0.934526273989123,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C)(C)NC(=O)C1CC2CCCCC2C[NH+]1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,1,1,0.9257455313001526,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1ccccc1OCC[NH2+]CC(O)COc1cccc2[nH]c3ccccc3c12,1,1,0.9229794938746934,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),O=C([O-])Cc1ccccc1Nc1c(Cl)cccc1Cl,1,1,0.9666617817544003,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc([O-])cc2)[NH+]1c1ccc(F)cc1,0,1,0.8771140900667537,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(=O)N=c1[n-]nc(S(N)(=O)=O)s1,0,1,0.936231608502855,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1ccnc(C[S+](O)c2nc3cc(OC(F)F)ccc3[n-]2)c1OC,0,1,0.9174328041874198,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),C=CC1=C(C(=O)[O-])[NH+]2C(=O)C(=NC(=O)C([NH2+]OCC(=O)[O-])c3csc(=N)[n-]3)C2SC1,0,1,0.8668634863572161,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC1=C(C(=O)[O-])[NH+]2C(=O)C(NC(=O)C([NH3+])c3ccc([O-])cc3)C2SC1,0,1,0.8564649715639167,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CON=C(C(=O)NC1C(=O)[NH+]2C(C(=O)[O-])=C(COC(N)=O)CSC12)c1ccco1,0,0,0.7568690074791555,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC[NH+]1CC[NH+](C(=O)NC(C(=O)NC2C(=O)[NH+]3C2SC(C)(C)C3C(=O)[O-])c2ccccc2)C(=O)C1=O,0,1,0.8922420520486944,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C)(C(=O)[O-])c1ccc(C(O)CCC[NH+]2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,0,0,0.8160346733510031,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCC1(c2ccccc2)C(=O)NCNC1=O,0,1,0.960844386434099,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCCSc1ccc2[n-]c(=NC(=O)OC)[n-]c2c1,0,1,0.9678343792031525,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC[NH+](CC)C(=S)SSC(=S)[NH+](CC)CC,0,1,0.853828742565799,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCC[NH+](CCC)S(=O)(=O)c1ccc(C(=O)[O-])cc1,0,0,0.6832151643406521,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),N=c1[n-]c(=N)c2nc(-c3ccccc3)c(=N)[n-]c2[n-]1,0,1,0.8877698990081798,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCOC(=O)[NH+]1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,0,1,0.9219822364841551,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[n-]cnc12,0,1,0.9207478371511474,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2,0,1,0.9139488086046811,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Cc1nnc(SC=C2CSC3C(NC(=O)Cn4cnnn4)C(=O)[NH+]3C2C(=O)[O-])s1,0,1,0.912851641946867,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(=O)CC(c1ccccc1)c1c([O-])c2ccccc2oc1=O,0,1,0.9553334650697428,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COC(=O)N=c1[n-]c2ccc(C(=O)c3ccccc3)cc2[n-]1,0,1,0.9410457673663573,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1cc(Cc2c[n-]c(=N)[n-]c2=N)cc(OC)c1OC,0,1,0.8646805452812303,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1cc(C(=O)NCc2ccc(OCC[NH+](C)C)cc2)cc(OC)c1OC,0,1,0.8546442202917482,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),Clc1ccccc1C[NH+]1CCc2sccc2C1,0,0,0.7665488544959018,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)[NH+](C)C1,0,1,0.8910482211261848,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1[O-],0,1,0.9484962892899985,0.8404258866712685
+cardiotox_with_sider_actives,Cardiotox (with SIDER actives),CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,0,1,0.914499439488785,0.8404258866712685
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH+]1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,1,1,0.9021648004773003,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH+]=C(C[N+](=O)[O-])NCCSCc1csc(C[NH+](C)C)n1,1,1,0.6596802745865243,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Fc1ccc(C2CC[NH2+]CC2COc2ccc3c(c2)OCO3)cc1,1,1,0.783314817127317,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1ccc2c(c1)c(CC(=O)[O-])c(C)n2C(=O)c1ccc(Cl)cc1,1,1,0.7659955253080254,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH+]1C(C(=O)N=c2cccc[n-]2)C(=O)c2ccccc2S1(=O)=O,1,1,0.6776977973007386,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)[NH+]2C1C(=O)[O-],1,1,0.8371070769508266,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCc1nn(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,1,1,0.6351106924121632,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCc1c(C)[nH]c2c1C(=O)C(C[NH+]1CCOCC1)CC2,1,1,0.8582971195471195,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),NC(=[NH2+])N=c1[n-]c(CSCCC(=[NH2+])NS(N)(=O)=O)cs1,1,0,0.5373682299060587,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C=CC[NH+]1CCC23c4c5ccc([O-])c4OC2C(=O)CCC3(O)C1C5,1,1,0.8746547757797757,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1ccc2[n-]c([S+](O)Cc3ncc(C)c(OC)c3C)nc2c1,1,1,0.8410661838161837,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1cc2[n-]c(N3CC[NH+](C(=O)c4ccco4)CC3)nc(=N)c2cc1OC,1,0,0.61613122988123,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCOC(=O)C(CCc1ccccc1)[NH2+]C(C)C(=O)[NH+]1C(C(=O)[O-])CC2CCCC21,1,1,0.8024327592342294,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Cc1ccc(C(=O)c2ccc(CC(=O)[O-])n2C)cc1,1,1,0.7890134954914365,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Cn1c(=O)c2c(ncn2C)n(C)c1=O,1,1,0.6434134381700174,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCC[NH2+]1,1,1,0.715108974358974,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1ccc(C2Sc3ccccc3N(CC[NH+](C)C)C(=O)C2OC(C)=O)cc1,1,1,0.8174002704811529,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH2+]CCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,1,1,0.7549029532558944,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH2+]CCC(Oc1ccccc1C)c1ccccc1,1,1,0.7044739496614502,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1ccc(CC[NH+](C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,1,1,0.8784323315573316,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH+](C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,1,0,0.5740973332223331,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCOC(=O)C1=C(COCC[NH3+])N=C(C)C(C(=O)OC)C1c1ccccc1Cl,1,1,0.8243935567571404,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,1,1,0.69537900987901,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(=O)[NH+]1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,1,1,0.7396306887556888,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH+](C)CCC=C1c2ccccc2CCc2ccccc21,1,1,0.8011610785048284,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C(=O)[O-])c1ccc(-c2ccccc2)c(F)c1,1,1,0.7554288523976024,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),O=c1n(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,1,1,0.7276550338851034,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C)[NH2+]CC(O)c1ccc(NS(C)(=O)=O)cc1,1,1,0.8175384337884342,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),O=C1[N-]C(=O)C(c2ccccc2)(c2ccccc2)N1,1,1,0.6741935019637224,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),O=C(C1CCCCC1)[NH+]1CC(=O)[NH+]2CCc3ccccc3C2C1,1,1,0.843413336255248,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C)Cc1ccc(C(C)C(=O)[O-])cc1,1,1,0.8648349194664984,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH2+]CCC=C1c2ccccc2CCc2ccccc21,1,1,0.8653600427350425,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C[NH2+]CCCC1c2ccccc2C=Cc2ccccc21,1,1,0.6822287082757283,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(c7coc([O-])c7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,1,1,0.6902325036075042,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCC[NH+](CC)CC)c(I)c1,1,1,0.8420484584859583,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Clc1ccc2c(c1)C(N1CC[NH2+]CC1)=[NH+]c1ccccc1O2,1,1,0.850214500777001,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC1COc2c(N3CC[NH+](C)CC3)c(F)cc3c(=O)c(C(=O)[O-])cn1c23,1,1,0.7461559225088635,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC[NH+](CC)CCOC(=O)c1ccc(N)cc1,1,1,0.7406019154456652,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC[NH+](CC)CCOC(=O)C1(C2CCCCC2)CCCCC1,1,1,0.6627913011695906,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),NN=c1[n-]ncc2ccccc12,1,1,0.696272909280262,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,1,1,0.7349442452971864,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),NS(=O)(=O)c1cc2c(cc1Cl)[NH+]=CNS2(=O)=O,1,1,0.7807411963036962,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C=C(CC)C(=O)c1ccc(OCC(=O)[O-])c(Cl)c1Cl,1,0,0.5586898101898102,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),N=c1[n-]c2ccc(OC(F)(F)F)cc2s1,1,1,0.766130001942502,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1cc([NH2+]C(C)CCC[NH3+])c2ncccc2c1,1,1,0.7679290986790988,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC1C(=NC(=O)C([NH2+]OC(C)(C)C(=O)[O-])c2csc(=N)[n-]2)C(=O)N1S(=O)(=O)[O-],1,1,0.6284620518370518,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)[NH+]2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)=CC(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,1,0,0.5248258265427381,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC[NH+]1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC,1,1,0.7150505536130538,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),O=C([O-])Cc1ccccc1Nc1c(Cl)cccc1Cl,1,1,0.7517667402042397,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),OCCOCC[NH+]1CC[NH+](C(c2ccccc2)c2ccc(Cl)cc2)CC1,1,1,0.7392027363975893,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),NC(=O)N1c2ccccc2C=Cc2ccccc21,1,1,0.8510956335331329,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C)(C)NC(=O)C1CC2CCCCC2C[NH+]1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,1,1,0.7929754412254413,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),O=C(CCC[NH+]1CC=C(n2c(=O)[n-]c3ccccc32)CC1)c1ccc(F)cc1,1,1,0.6957513477020056,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1ccccc1OCC[NH2+]CC(O)COc1cccc2[nH]c3ccccc3c12,1,1,0.6606033454849245,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,1,1,0.7965687992562995,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Cc1ccc(C)c(OCCCC(C)(C)C(=O)[O-])c1,1,1,0.8615807248307246,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C)[NH2+]CC(O)COc1cccc2[nH]ccc12,1,1,0.7231178474303473,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C)[NH2+]CC(O)COc1ccc(CC(N)=O)cc1,1,1,0.7859363275613278,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(=O)OCC(CCn1cnc2c[n-]c(=N)nc21)COC(C)=O,1,1,0.7432248723498722,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCC[NH+](CCC)CCc1cccc2[n-]c([O-])cc12,1,1,0.6407851103574786,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),N=c1[n-]c(Cl)nc2c1ncn2C1CC(O)C(CO)O1,1,0,0.5952952203025732,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC[NH+](CC)CCCC(C)N=c1cc[n-]c2cc(Cl)ccc12,1,1,0.8226511717449217,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),O=C([O-])c1cn(C2CC2)c2cc(N3CC[NH2+]CC3)c(F)cc2c1=O,1,0,0.6048066511661712,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Cc1cccc(C)c1OCC(C)[NH3+],1,1,0.8194580623624741,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC1=C(CC(=O)[O-])c2cc(F)ccc2C1=Cc1ccc([S+](C)O)cc1,1,1,0.750782328782329,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc([O-])cc2)[NH+]1c1ccc(F)cc1,0,1,0.6269531224924029,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC1=C(C(=O)[O-])[NH+]2C(=O)C(NC(=O)C([NH3+])c3ccc([O-])cc3)C2SC1,0,1,0.728706487956488,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),C=CC1=C(C(=O)[O-])[NH+]2C(=O)C(=NC(=O)C([NH2+]OCC(=O)[O-])c3csc(=N)[n-]3)C2SC1,0,1,0.761119123931624,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),N=c1[n-]c(=N)c2nc(-c3ccccc3)c(=N)[n-]c2[n-]1,0,1,0.7864339465573981,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCC1(c2ccccc2)C(=O)NCNC1=O,0,1,0.8150175310800314,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCC[NH+](CCC)S(=O)(=O)c1ccc(C(=O)[O-])cc1,0,1,0.7115179612054608,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC[NH+](CC)C(=S)SSC(=S)[NH+](CC)CC,0,1,0.7047781870906868,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1ccnc(C[S+](O)c2nc3cc(OC(F)F)ccc3[n-]2)c1OC,0,1,0.8082210497835498,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CON=C(C(=O)NC1C(=O)[NH+]2C(C(=O)[O-])=C(COC(N)=O)CSC12)c1ccco1,0,1,0.6758621210660685,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC[NH+]1CC[NH+](C(=O)NC(C(=O)NC2C(=O)[NH+]3C2SC(C)(C)C3C(=O)[O-])c2ccccc2)C(=O)C1=O,0,1,0.7071263944388946,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(=O)N=c1[n-]nc(S(N)(=O)=O)s1,0,1,0.6596834346209343,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Cc1nnc(SC=C2CSC3C(NC(=O)Cn4cnnn4)C(=O)[NH+]3C2C(=O)[O-])s1,0,1,0.7895943819252641,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(=O)CC(c1ccccc1)c1c([O-])c2ccccc2oc1=O,0,1,0.7720803224553228,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCCSc1ccc2[n-]c(=NC(=O)OC)[n-]c2c1,0,1,0.7330394952269956,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[n-]cnc12,0,0,0.6184722707847707,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2,0,0,0.5545521561771566,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)[NH+](C)C1,0,1,0.6875156015295331,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1cc(C(=O)NCc2ccc(OCC[NH+](C)C)cc2)cc(OC)c1OC,0,1,0.6445304348429345,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,0,1,0.722350135975136,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1cc(Cc2c[n-]c(=N)[n-]c2=N)cc(OC)c1OC,0,1,0.8746609085359089,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CCOC(=O)[NH+]1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,0,1,0.7963992673992673,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),Clc1ccccc1C[NH+]1CCc2sccc2C1,0,0,0.5655211867810549,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),CC(C)(C(=O)[O-])c1ccc(C(O)CCC[NH+]2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,0,1,0.7685682165057163,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1[O-],0,0,0.5870874611499608,0.6202058146102266
+cardiotox_with_sider_all,Cardiotox (with SIDER all),COC(=O)N=c1[n-]c2ccc(C(=O)c3ccccc3)cc2[n-]1,0,1,0.6810656496281497,0.6202058146102266
+sider_cardiacdisorders,Cardiac disorders,Cc1ccc(=O)n(-c2ccccc2)c1,0,1,0.6907828884189698,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC12CCC(=O)C=C1C1CC1C1C2CCC2(C)C1C1CC1C21CCC(=O)O1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(O)([P](=O)(=O)O)[P](=O)(=O)O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cn1c(=O)c2c(ncn2C)n(C)c1=O,1,1,0.7417983987503588,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1ccc(CC(C)(C)[NH2+]CC(O)c2cc([O-])cc3c2OCC(=O)N3)cc1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC12CCC3C(=CCc4cc(OS(=O)(=O)[O-])ccc43)C1CCC2=O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C=CC1=C(C)c2cc3[nH]c(cc4[nH]c(cc5nc(cc1n2)C(C)=C5C=C)c(C)c4CCC(=O)[O-])c(CCC(=O)[O-])c3C,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,N#Cc1cc(NC(=O)C(=O)[O-])c(Cl)c(NC(=O)C(=O)[O-])c1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1cccc(C(C)c2c[n-]cn2)c1C,1,1,0.7195401706491359,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC1OC(OC2C(CO)OC(OC3C(CO)OC(O)C(O)C3O)C(O)C2O)C(O)C(O)C1[NH2+]C1C=C(CO)C(O)C(O)C1O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1[n-]c(=N)nc2c1ncn2C1OC(CO)C(O)C1O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[NH2+]CCC=C1c2ccccc2CCc2ccccc21,1,1,0.7737193795762676,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC[NH+]1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC,1,1,0.7081262822114547,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,OCC[NH+]1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC(=O)OCC(=O)C1(OC(=O)CC)C(C)CC2C3CC=C4CC(=O)C=CC4(C)C3(Cl)C(O)CC21C,0,0,0.4369319929546729,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(=O)[N-]S(=O)(=O)c1ccc(N)cc1,0,1,0.6615221152083433,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C([O-])CCC[NH+]1CCC(OC(c2ccc(Cl)cc2)c2ccccn2)CC1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CN1CCC[NH+]=C1C=Cc1cccs1,0,1,0.6680836105784602,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC(=O)N(c1ccccc1)C1(COC)CC[NH+](CCn2nnn(CC)c2=O)CC1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,NC(=O)N=CC1NC(=O)C(CNC(=O)CC([NH3+])CCC[NH3+])NC(=O)C(CO)NC(=O)C([NH3+])CNC(=O)C(C2CC[NH+]=C(N)N2)NC1=O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC[NH+]1CC(CSC)CC2c3cccc4[nH]cc(c34)CC21,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,NC(=O)C[S+](O)C(c1ccccc1)c1ccccc1,1,1,0.7492054691385549,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCCC(C)(COC(N)=O)COC(=O)NC(C)C,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,FC(F)OC(F)C(F)(F)F,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(=O)OC1CC2CCC3C(CCC4(C)C3CC([N+]3(C)CCCCC3)C4OC(C)=O)C2(C)CC1[N+]1(C)CCCCC1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(COc1ccccc1)[NH2+]C(C)C(O)c1ccc([O-])cc1,1,1,0.6485245649167936,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C1C=NC(c2ccccn2)c2cc(Br)ccc2N1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(O)=NO,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C([O-])C[NH+](CC[NH+](CC(=O)[O-])CC(=O)[O-])CC[NH+](CC(=O)[O-])C(COCc1ccccc1)C(=O)[O-],1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCOC(=O)C1=C(C)N=C(C)C(C(=O)OC)C1c1cccc(Cl)c1Cl,1,1,0.725621646501423,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(Cc1ccc([O-])c([O-])c1)([NH2+]N)C(=O)[O-],1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1cccc(N=c2cc[n-]cc2S(=O)(=O)[N-]C(=O)[NH2+]C(C)C)c1,1,1,0.7661307013795793,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C1CCc2ccc(OCCCC[NH+]3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,N[N-]C(=O)c1ccncc1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cn1c(=O)cc(N2CCCC([NH3+])C2)n(Cc2ccccc2C#N)c1=O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCCCC(=O)OC1(C(=O)CO)CCC2C3CC=C4CC(=O)CCC4(C)C3C(O)CC21C,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1ccc2cc(CCC(C)=O)ccc2c1,1,1,0.8003870508932995,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1c([O-])c(=O)ccn1C,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC1CCCC(OC2CCC([NH+](C)C)C(C)O2)C(C)C(=O)C2=CC3C(C=C(C)C4CC(OC5OC(C)C(OC)C(OC)C5OC)CC43)C2CC(=O)O1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,FCOC(C(F)(F)F)C(F)(F)F,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COC(=O)C1=C(C)N=C(C)C(C(=O)OC(C)(C)C[NH+](C)CCC(c2ccccc2)c2ccccc2)C1c1cccc([N+](=O)[O-])c1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[NH+]1C(CSCC(F)(F)F)[NH2+]c2cc(Cl)c(S(N)(=O)=O)cc2S1(=O)=O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCOc1nc2cccc(C(=O)OCc3oc(=O)oc3C)c2n1Cc1ccc(-c2ccccc2-c2nc(=O)o[n-]2)cc1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1ncc([N+](=O)[O-])n1CCO,1,1,0.8356450738835308,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[NH+](C)C1C(=O)C(C(N)=O)C(=O)C2(O)C(O)c3c(c([O-])c4c(Cl)ccc([O-])c4c3[O-])CC12,1,1,0.6730586844182618,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,N=c1[n-]c(Cl)nc2c1ncn2C1OC(CO)C(O)C1F,1,1,0.737863984235603,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,1,1,0.6971208414868763,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCOC(=O)[NH+]1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,1,1,0.7597562409278007,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C)[NH2+]CC(O)COc1ccc(COCCOC(C)C)cc1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC(C)CCCCC(=O)NC(CC[NH2+]CS(=O)(=O)[O-])C(=O)NC(C(=O)NC(CC[NH2+]CS(=O)(=O)[O-])C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CC[NH2+]CS(=O)(=O)[O-])NC(=O)C(CC[NH2+]CS(=O)(=O)[O-])NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC[NH2+]CS(=O)(=O)[O-])NC1=O)C(C)O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[NH2+]C1C(O)C([NH2+]C)C2OC3(O)C(=O)CC(C)OC3OC2C1O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[N+]1(C)CCCC(OC(=O)C(O)(c2ccccc2)c2ccccc2)C1,1,1,0.772241371278821,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COCCCCC(=NOCC[NH3+])c1ccc(C(F)(F)F)cc1,1,1,0.7495654881696877,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)[NH+]2CCCCC2C(=O)OC(C(C)CC2CCC(OCCO)C(OC)C2)CC(=O)C(C)=CC(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCOc1ccc(CC(C[NH+](CC[NH+](CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])[NH+](CC(=O)[O-])CC(=O)[O-])cc1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC12C=CC[NH+]3CCC4(c5cc(C6(C(=O)OC)CC7CC(C(C)(F)F)C[NH+](Cc8c6[nH]c6ccccc86)C7)c(OC)cc5[NH+](C)C4C(O)(C(=O)OC)C1OC(C)=O)C32,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,[NH3+]C(Cc1cc(I)c(Oc2cc(I)c([O-])c(I)c2)c(I)c1)C(=O)[O-],1,1,0.8277946215224932,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C)CC(N=C(O)C(CC(C)C)N=C(O)C(CCCNC(N)=[NH2+])N=C(O)C(CCC(=N)O)N=C(O)C(CC(C)C)N=C(O)C(CCCNC(N)=[NH2+])N=C(O)C(C)N=C(O)CN=C(O)C(CCC(=O)[O-])N=C(O)C(CCCNC(N)=[NH2+])N=C(O)C(CC(C)C)N=C(O)C(CCCNC(N)=[NH2+])N=C(O)C(CO)N=C(O)C(CC(C)C)N=C(O)C(CCC(=O)[O-])N=C(O)C(CO)N=C(O)C(N=C(O)C(Cc1ccccc1)N=C(O)C(N=C(O)CN=C(O)C(CC(=O)[O-])NC(=O)C(CO)NC(=O)C([NH3+])Cc1cnc[n-]1)C(C)O)C(C)O)C(=O)NC(CCC(N)=O)C(=O)NCC(=O)NC(CC(C)C)C(=O)NC(C(N)=O)C(C)C,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[N+]1(C)C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12,1,1,0.6361047861269117,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC12CCC3c4ccc([O-])cc4CC(CCCCCCCCC[S+](O)CCCC(F)(F)C(F)(F)F)C3C1CCC2O,0,1,0.6178199968725776,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C)(CO)C(=O)C(O)[NH2+]CCCO,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(CN1c2ccccc2Sc2ccccc21)C[NH+](C)C,1,0,0.5324271524329257,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC1C=CC=CC=CC=CC=CC=CC=CC(OC2OC(C)C(O)C([NH3+])C2O)CC2OC(O)(CC(O)CC(O)C(O)CCC(O)CC(O)CC(=O)OC(C)C(C)C1O)CC(O)C2C(=O)[O-],1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,NC(=[NH2+])NC(=O)Cc1c(Cl)cccc1Cl,1,1,0.7622131160660425,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[NH+](C)CCOC(=O)C(c1ccccc1)C1(O)CCCC1,1,1,0.6641143024776078,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(=O)C(C#N)C(=O)Nc1ccc(C(F)(F)F)cc1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C)CC(NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1ccc([O-])cc1)NC(=O)C(CO)NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(Cc1cnc[n-]1)NC(=O)C1CCC(=O)N1)C(=O)NC(CCCNC(N)=[NH2+])C(=O)[NH+]1CCCC1C(=O)NCC(N)=O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CON=C(C(=O)NC1C(=O)[NH+]2C(C(=O)[O-])=C(COC(N)=O)CSC12)c1ccco1,1,1,0.7389178824399953,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=c1n(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,1,1,0.6502291216680054,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C=Cc1c(C)c([O-])c2ccccc2c1[O-])=CCCC(C)CCCC(C)CCCC(C)C,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)[NH+](C)C1,1,1,0.6047371961151574,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCCSc1ccc2[n-]c(=NC(=O)OC)[n-]c2c1,0,1,0.6237386233792578,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(OC1OCC[NH+](Cc2n[n-]c(=O)[n-]2)C1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCOC(=O)C(CCc1ccccc1)[NH2+]C(C)C(=O)[NH+]1Cc2ccccc2CC1C(=O)[O-],1,1,0.7834551917053144,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1cc2[n-]c(N3CC[NH+](C(=O)C4COc5ccccc5O4)CC3)nc(=N)c2cc1OC,1,1,0.714902583120703,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC(C)C1N=C(O)C(C(C)CC)N=C(O)C(CCCNC(N)=[NH2+])N=C(O)C(C)N=C(O)C(CCCC[NH3+])N=C(O)C2CSSCC3N=C(O)CN=C(O)CN=C(O)C(Cc4ccc([O-])cc4)N=C(O)C(C(C)C)N=C(O)C(Cc4ccccc4)N=C(O)C(C(C)O)N=C(O)C(CCC(=N)O)N=C(O)C(CSSCC(N=C(O)C(CC(=O)[O-])N=C(O)C(CCC(=O)[O-])N=C(O)C(C)N=C(O)C(CO)N=C(O)C(CCCC[NH3+])N=C(O)C(Cc4ccccc4)N=C(O)C(CC(=N)O)N=C(O)C(CC(=N)O)N=C(O)C(CCCNC(N)=[NH2+])N=C(O)C(CCCC[NH3+])N=C(O)C(C)N=C(O)C(CCCNC(N)=[NH2+])N=C3O)C(=O)NC(CCSC)C(=O)NC(CCCNC(N)=[NH2+])C(=O)NC(C(C)O)C(=O)NC(C(O)=NCC(O)=NCC(O)=NC(C)C(=O)[O-])CSSCC(N=C(O)C(Cc3ccccc3)N=C(O)C(CC(=O)[O-])N=C(O)C3CCC[NH+]3C(=O)C([NH3+])CCCNC(N)=[NH2+])C(O)=NC(CC(C)C)C(O)=NC(CCC(=O)[O-])C(=O)[NH+]3CCCC3C(=O)[NH+]3CCCC3C(O)=NC(Cc3ccc([O-])cc3)C(O)=NC(C(C)O)C(O)=NCC(=O)[NH+]3CCCC3C(O)=N2)N=C(O)C(CC(C)C)N=C(O)CN=C(O)C(C)N=C(O)C(CCCC[NH3+])N=C(O)C(C)N=C(O)C(CC(=N)O)N=C(O)C(Cc2ccc([O-])cc2)N=C(O)C(Cc2ccccc2)NC(=O)C(Cc2ccc([O-])cc2)NC(=O)C(CCCNC(N)=[NH2+])NC1=O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C)CC(N=C(O)C(CCC(=O)[O-])N=C(O)C(CCC(=N)O)N=C(O)C(CO)N=C(O)C(CC(C)C)N=C(O)C(CCCC[NH3+])N=C(O)CN=C(O)C(CC(C)C)N=C(O)C(N=C(O)C1CSSCC([NH3+])C(=O)NC(CO)C(=O)NC(CC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(CO)C(O)=NC(C(C)O)C(O)=N1)C(C)C)C(=O)NC(Cc1cnc[n-]1)C(O)=NC(CCCC[NH3+])C(O)=NC(CC(C)C)C(O)=NC(CCC(N)=O)C(O)=NC(C(O)=NC(Cc1ccc([O-])cc1)C(=O)[NH+]1CCCC1C(O)=NC(CCCNC(N)=[NH2+])C(O)=NC(C(O)=NC(CC(N)=O)C(O)=NC(C(O)=NCC(O)=NC(CO)C(O)=NCC(O)=NC(C(=O)[NH+]1CCCC1C(N)=O)C(C)O)C(C)O)C(C)O)C(C)O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCCc1nc(C(C)(C)O)c(C(=O)OCc2oc(=O)oc2C)n1Cc1ccc(-c2ccccc2-c2nn[n-]n2)cc1,1,1,0.6123408307347272,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CSCCC([NH3+])C(=O)NC(CCC(=N)O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(=N)O)C(=O)NC(CO)C(=O)NC(C(O)=NC(C(O)=NC(Cc1ccccc1)C(O)=NC(Cc1cnc[n-]1)C(O)=NC(CCC(=N)O)C(O)=NC(C(O)=NC(CC(C)C)C(O)=NC(CCC(=N)O)C(O)=NC(CC(=O)[O-])C(=O)[NH+]1CCCC1C(O)=NC(CCCNC(N)=[NH2+])C(O)=NC(C(=O)OC(=O)CN=C(O)CN=C(O)C(C)N=C(O)C1CCC[NH+]1C(=O)C(Cc1ccccc1)N=C(O)C(Cc1ccc([O-])cc1)NC(=O)C(CC(C)C)NC(=O)CNC(=O)C([NH3+])CCCNC(N)=[NH2+])C(C)C)C(C)O)C(C)O)C(C)O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CNC(=O)c1ccc(N2C(=S)N(c3ccc(C#N)c(C(F)(F)F)c3)C(=O)C2(C)C)cc1F,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC(CO)[NH2+]CC[NH2+]C(CC)CO,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CNC(=O)c1cnn(-c2nc(=N)c3ncn(C4OC(CO)C(O)C4O)c3[n-]2)c1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C(=O)[O-])c1cccc(C(=O)c2ccccc2)c1,1,0,0.5589277238841288,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CN(C(=O)CC(=O)N(C)c1c(I)c(C(=O)NC(CO)C(O)CO)c(I)c(C(=O)NC(CO)C(O)CO)c1I)c1c(I)c(C(=O)NC(CO)C(O)CO)c(I)c(C(=O)NC(CO)C(O)CO)c1I,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCCCCCOC(=O)CCC(=O)C[NH3+],0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(N4CCCCC4=O)cc2)CC3)cc1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCCCNc1cc(C(=O)[O-])cc(S(N)(=O)=O)c1Oc1ccccc1,0,1,0.6762124798258279,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(=O)OCC1OC(S)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC[N+](C)(C)c1cccc([O-])c1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Clc1ccc(CSC(Cn2ccnc2)c2ccc(Cl)cc2Cl)cc1,0,0,0.567463993637343,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C([O-])C(S)C(S)C(=O)[O-],1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=c1[n-]c([O-])cn1N=Cc1ccc(-c2ccc([N+](=O)[O-])cc2)o1,1,1,0.7000186389868838,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(=O)C(O)O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C(OC1CC2CC3CC(C1)[NH+]2CC3=O)c1c[nH]c2ccccc12,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1ccc(C2OC(CO)C(O)C(O)C2O)cc1Cc1ccc(-c2ccc(F)cc2)s1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC(C)C(N=C(O)C[NH3+])C(=O)NC(C(=O)NC(CCC(=O)[O-])C(=O)NC(CCC(=N)O)C(=O)NC1CSSCC2N=C(O)C(C(C)CC)N=C(O)C(CO)N=C(O)C(C(C)O)N=C(O)C(CSSCC(N=C(O)C(CC(C)C)N=C(O)C(Cc3cnc[n-]3)N=C(O)C(CCC(=N)O)N=C(O)C(CC(=N)O)N=C(O)C(N=C(O)C([NH3+])Cc3ccccc3)C(C)C)C(=O)NCC(O)=NC(CO)C(O)=NC(Cc3cnc[n-]3)C(O)=NC(CC(C)C)C(O)=NC(C(C)C)C(O)=NC(CCC(=O)[O-])C(O)=NC(C)C(O)=NC(CC(C)C)C(O)=NC(Cc3ccc([O-])cc3)C(O)=NC(CC(C)C)C(O)=NC(C(C)C)C(O)=NC(C(O)=NCC(O)=NC(CCC(=O)[O-])C(O)=NC(CCCNC(N)=[NH2+])C(O)=NCC(O)=NC(Cc3ccccc3)C(O)=NC(Cc3ccccc3)C(O)=NC(Cc3ccc([O-])cc3)C(O)=NC(C(=O)[NH+]3CCCC3C(O)=NC(CCCC[NH3+])C(O)=NC(C(=O)[O-])C(C)O)C(C)O)CSSCC(C(O)=NC(CC(=N)O)C(=O)[O-])N=C(O)C(Cc3ccc([O-])cc3)N=C(O)C(CC(=N)O)N=C(O)C(CCC(=O)[O-])N=C(O)C(CC(C)C)N=C(O)C(CCC(=N)O)N=C(O)C(Cc3ccc([O-])cc3)N=C(O)C(CC(C)C)NC(=O)C(CO)NC2=O)NC1=O)C(C)C,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(=CC(=O)OCCCCCCCCC(=O)[O-])CC1OCC(CC2OC2C(C)C(C)O)C(O)C1O,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC[NH+](CC)C(=S)SSC(=S)[NH+](CC)CC,0,1,0.733805366110734,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[NH2+]CC(O)c1cccc([O-])c1,1,1,0.6481992608432037,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,c1ccc2c(CC3=[NH+]CCN3)cccc2c1,0,0,0.4756582961745435,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1ccc(-c2ncc(Cl)cc2-c2ccc(S(C)(=O)=O)cc2)cn1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1ccnc2c1NC(=O)c1cccnc1[NH+]2C1CC1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC[NH+](CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1,1,1,0.8190605639945929,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCn1cc(C(=O)[O-])c(=O)c2cc(F)c(N3CC[NH2+]C(C)C3)c(F)c21,1,1,0.7304823089688558,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCOc1cc(CC(=O)NC(CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)[O-],1,1,0.7769814712974066,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21,1,1,0.765657938323424,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CCC[NH2+]C(C)C(=O)Nc1c(C)csc1C(=O)OC,1,1,0.704771127303297,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=[N+]([O-])OC1COC2C(O)COC12,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COC(=O)C1=C(C)N=C(C)C(C(=O)OCC[NH+](C)Cc2ccccc2)C1c1cccc([N+](=O)[O-])c1,1,1,0.6430812299701317,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1cc(C(=O)[N-]S(=O)(=O)c2ccccc2C)ccc1Cc1cn(C)c2ccc(NC(=O)OC3CCCC3)cc12,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1ccc(CCOC2CCCCC2[NH+]2CCC(O)C2)cc1OC,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,[O-]c1ccc(C2C[NH2+]CCc3c2cc([O-])c([O-])c3Cl)cc1,1,1,0.7314767441667281,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cn1nnc2c(C(N)=O)ncn2c1=O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=[P](=O)(O)C(Cl)(Cl)[P](=O)(=O)O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C([O-])CCCc1ccccc1,1,1,0.7119979420170278,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(=O)C1NC(=O)C(CCCC[NH3+])NC(=O)C(Cc2c[nH]c3ccccc23)NC(=O)C(Cc2ccccc2)NC(=O)C(NC(=O)C([NH3+])Cc2ccccc2)CSSCC(C(=O)NC(CO)C(C)O)[NH2+]C1O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC1(O)CCC2C3CC=C4CC(=O)CCC4(C)C3(F)C(O)CC21C,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC(C=CC(C)C(C)(C)O)C1CCC2C(=CC=C3CC(O)CC(O)C3)CCCC21C,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CS(=O)(=O)OCCCCOS(C)(=O)=O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C[N+](C)(C)CCOC(N)=O,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1onc(-c2ccccc2)c1-c1ccc(S(N)(=O)=O)cc1,1,1,0.7095623637360828,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,N=c1[n-]c(CC(=O)Nc2ccc(CC[NH2+]CC(O)c3ccccc3)cc2)cs1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C([O-])CCCO,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)[NH+]2C1C(=O)[O-],1,1,0.7709213355931095,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=C(CCCc1ccccc1)OCC(COC(=O)CCCc1ccccc1)OC(=O)CCCc1ccccc1,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COc1cc2[n-]c(N3CC[NH+](C(=O)c4ccco4)CC3)nc(=N)c2cc1OC,1,1,0.6066253322603821,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,COC1C=COC2(C)Oc3c(C)c([O-])c4c([O-])c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,0,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,CC1OC2(CS1)C[NH+]1CCC2CC1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,Cc1ccc([O-])c(C(CC[NH+](C(C)C)C(C)C)c2ccccc2)c1,1,1,0.8242214742143282,0.5802231925657245
+sider_cardiacdisorders,Cardiac disorders,O=c1[n-]c2cc(Cl)ccc2o1,0,1,0.6172180839034782,0.5802231925657245
+DICTrank,DICTrank,O=c1n(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,1,1,0.8334090721538848,0.7913131335013509
+DICTrank,DICTrank,CC(C(=O)[O-])c1ccc(-c2ccccc2)c(F)c1,1,0,0.6882728347212749,0.7913131335013509
+DICTrank,DICTrank,C[NH+](C)CCC=C1c2ccccc2CCc2ccccc21,1,1,0.8178941161999786,0.7913131335013509
+DICTrank,DICTrank,CC(=O)[NH+]1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,1,1,0.8523709041554213,0.7913131335013509
+DICTrank,DICTrank,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,1,1,0.8346899801377812,0.7913131335013509
+DICTrank,DICTrank,O=C(C1CCCCC1)[NH+]1CC(=O)[NH+]2CCc3ccccc3C2C1,1,1,0.9046945492086534,0.7913131335013509
+DICTrank,DICTrank,CC(C)Cc1ccc(C(C)C(=O)[O-])cc1,1,1,0.8366660420107883,0.7913131335013509
+DICTrank,DICTrank,OCCOCC[NH+]1CC[NH+](C(c2ccccc2)c2ccc(Cl)cc2)CC1,1,1,0.823909899269331,0.7913131335013509
+DICTrank,DICTrank,NC(=O)N1c2ccccc2C=Cc2ccccc21,1,0,0.7828531949390009,0.7913131335013509
+DICTrank,DICTrank,NN=c1[n-]ncc2ccccc12,1,0,0.6349434812690214,0.7913131335013509
+DICTrank,DICTrank,C[NH+](C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,1,1,0.8721780298353004,0.7913131335013509
+DICTrank,DICTrank,COc1ccc(CC[NH+](C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC,1,1,0.9175072583517283,0.7913131335013509
+DICTrank,DICTrank,C[NH2+]CCC(Oc1ccccc1C)c1ccccc1,1,1,0.8894835285535606,0.7913131335013509
+DICTrank,DICTrank,C[NH2+]CCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,1,1,0.9105527170544989,0.7913131335013509
+DICTrank,DICTrank,C[NH2+]CCC=C1c2ccccc2CCc2ccccc21,1,1,0.9212682692410412,0.7913131335013509
+DICTrank,DICTrank,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CC(O)C5(C)C(c7coc([O-])c7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,1,1,0.9140861238260451,0.7913131335013509
+DICTrank,DICTrank,CC1COc2c(N3CC[NH+](C)CC3)c(F)cc3c(=O)c(C(=O)[O-])cn1c23,1,1,0.8885309961056426,0.7913131335013509
+DICTrank,DICTrank,COc1ccc(C2Sc3ccccc3N(CC[NH+](C)C)C(=O)C2OC(C)=O)cc1,1,1,0.8487151893196617,0.7913131335013509
+DICTrank,DICTrank,O=C1[N-]C(=O)C(c2ccccc2)(c2ccccc2)N1,1,1,0.8156938551509335,0.7913131335013509
+DICTrank,DICTrank,CC(C)[NH2+]CC(O)c1ccc(NS(C)(=O)=O)cc1,1,1,0.9336493837052776,0.7913131335013509
+DICTrank,DICTrank,CCOC(=O)C1=C(COCC[NH3+])N=C(C)C(C(=O)OC)C1c1ccccc1Cl,1,1,0.9038649075866347,0.7913131335013509
+DICTrank,DICTrank,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCC[NH2+]1,1,1,0.8895015710948962,0.7913131335013509
+DICTrank,DICTrank,N=c1[n-]c(Cl)nc2c1ncn2C1CC(O)C(CO)O1,1,1,0.7996559104080239,0.7913131335013509
+DICTrank,DICTrank,CC[NH+](CC)CCCC(C)N=c1cc[n-]c2cc(Cl)ccc12,1,1,0.8959599552803084,0.7913131335013509
+DICTrank,DICTrank,CC[NH+]1CCCC1CNC(=O)c1cc(S(=O)(=O)CC)c(N)cc1OC,1,0,0.6221460939021557,0.7913131335013509
+DICTrank,DICTrank,CCC[NH+](CCC)CCc1cccc2[n-]c([O-])cc12,1,1,0.8845916818542873,0.7913131335013509
+DICTrank,DICTrank,CC(C)[NH2+]CC(O)COc1ccc(CC(N)=O)cc1,1,1,0.866578335877835,0.7913131335013509
+DICTrank,DICTrank,O=C([O-])c1cn(C2CC2)c2cc(N3CC[NH2+]CC3)c(F)cc2c1=O,1,0,0.6534412710548292,0.7913131335013509
+DICTrank,DICTrank,CC1=C(CC(=O)[O-])c2cc(F)ccc2C1=Cc1ccc([S+](C)O)cc1,1,1,0.8127826286405528,0.7913131335013509
+DICTrank,DICTrank,Cc1cccc(C)c1OCC(C)[NH3+],1,1,0.9129531280454379,0.7913131335013509
+DICTrank,DICTrank,O=C([O-])Cc1ccccc1Nc1c(Cl)cccc1Cl,1,1,0.8991674076674885,0.7913131335013509
+DICTrank,DICTrank,CC(C)(C)NC(=O)C1CC2CCCCC2C[NH+]1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,1,1,0.8990665667718588,0.7913131335013509
+DICTrank,DICTrank,O=C(CCC[NH+]1CC=C(n2c(=O)[n-]c3ccccc32)CC1)c1ccc(F)cc1,1,1,0.9167986456257606,0.7913131335013509
+DICTrank,DICTrank,OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F,1,0,0.560181976077988,0.7913131335013509
+DICTrank,DICTrank,COc1ccccc1OCC[NH2+]CC(O)COc1cccc2[nH]c3ccccc3c12,1,1,0.8590717690787252,0.7913131335013509
+DICTrank,DICTrank,Cc1ccc(C(=O)c2ccc(CC(=O)[O-])n2C)cc1,1,1,0.8875673954199732,0.7913131335013509
+DICTrank,DICTrank,Cn1c(=O)c2c(ncn2C)n(C)c1=O,1,0,0.7250256146477374,0.7913131335013509
+DICTrank,DICTrank,C[NH+]1C(C(=O)N=c2cccc[n-]2)C(=O)c2ccccc2S1(=O)=O,1,0,0.7340267075304161,0.7913131335013509
+DICTrank,DICTrank,COc1ccc2c(c1)c(CC(=O)[O-])c(C)n2C(=O)c1ccc(Cl)cc1,1,1,0.8002369738406974,0.7913131335013509
+DICTrank,DICTrank,Fc1ccc(C2CC[NH2+]CC2COc2ccc3c(c2)OCO3)cc1,1,1,0.8984923611057672,0.7913131335013509
+DICTrank,DICTrank,CCOC(=O)C(CCc1ccccc1)[NH2+]C(C)C(=O)[NH+]1C(C(=O)[O-])CC2CCCC21,1,1,0.8416235192081583,0.7913131335013509
+DICTrank,DICTrank,COc1ccc2[n-]c([S+](O)Cc3ncc(C)c(OC)c3C)nc2c1,1,1,0.8843716050510383,0.7913131335013509
+DICTrank,DICTrank,C=CC[NH+]1CCC23c4c5ccc([O-])c4OC2C(=O)CCC3(O)C1C5,1,1,0.8899404515895483,0.7913131335013509
+DICTrank,DICTrank,NC(=[NH2+])N=c1[n-]c(CSCCC(=[NH2+])NS(N)(=O)=O)cs1,1,1,0.8554278980331079,0.7913131335013509
+DICTrank,DICTrank,CCc1c(C)[nH]c2c1C(=O)C(C[NH+]1CCOCC1)CC2,1,1,0.8217996621610159,0.7913131335013509
+DICTrank,DICTrank,COc1cc2[n-]c(N3CC[NH+](C(=O)c4ccco4)CC3)nc(=N)c2cc1OC,1,1,0.8389679847427439,0.7913131335013509
+DICTrank,DICTrank,C[NH2+]CCCC1c2ccccc2C=Cc2ccccc21,1,1,0.8920125833130242,0.7913131335013509
+DICTrank,DICTrank,Clc1ccc2c(c1)C(N1CC[NH2+]CC1)=[NH+]c1ccccc1O2,1,1,0.8766524493263727,0.7913131335013509
+DICTrank,DICTrank,CC[NH+](CC)CCOC(=O)c1ccc(N)cc1,1,1,0.8912764278091319,0.7913131335013509
+DICTrank,DICTrank,CC[NH+](CC)CCOC(=O)C1(C2CCCCC2)CCCCC1,1,1,0.8506703177957092,0.7913131335013509
+DICTrank,DICTrank,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCC[NH+](CC)CC)c(I)c1,1,1,0.9026185857031698,0.7913131335013509
+DICTrank,DICTrank,CCc1nn(CCC[NH+]2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,1,0,0.7764174976082538,0.7913131335013509
+DICTrank,DICTrank,C[NH+]=C(C[N+](=O)[O-])NCCSCc1csc(C[NH+](C)C)n1,1,0,0.7750430171890212,0.7913131335013509
+DICTrank,DICTrank,C[NH+]1CC[NH+](CCCN2c3ccccc3Sc3ccc(C(F)(F)F)cc32)CC1,1,1,0.8775944270801426,0.7913131335013509
+DICTrank,DICTrank,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)[NH+]2C1C(=O)[O-],1,1,0.8348275824250279,0.7913131335013509
+DICTrank,DICTrank,CC1C(=NC(=O)C([NH2+]OC(C)(C)C(=O)[O-])c2csc(=N)[n-]2)C(=O)N1S(=O)(=O)[O-],1,0,0.7074133169911605,0.7913131335013509
+DICTrank,DICTrank,COc1cc([NH2+]C(C)CCC[NH3+])c2ncccc2c1,1,0,0.7678554905998589,0.7913131335013509
+DICTrank,DICTrank,COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)[NH+]2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)=CC(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C,1,1,0.8910324238381581,0.7913131335013509
+DICTrank,DICTrank,C=C(CC)C(=O)c1ccc(OCC(=O)[O-])c(Cl)c1Cl,1,1,0.8548088238713223,0.7913131335013509
+DICTrank,DICTrank,NS(=O)(=O)c1cc2c(cc1Cl)[NH+]=CNS2(=O)=O,1,0,0.7325295468281637,0.7913131335013509
+DICTrank,DICTrank,NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O,1,1,0.8280998959191549,0.7913131335013509
+DICTrank,DICTrank,Cc1ccc(C)c(OCCCC(C)(C)C(=O)[O-])c1,1,1,0.8526179658903974,0.7913131335013509
+DICTrank,DICTrank,CC(C)[NH2+]CC(O)COc1cccc2[nH]ccc12,1,0,0.706674051259771,0.7913131335013509
+DICTrank,DICTrank,CC(=O)OCC(CCn1cnc2c[n-]c(=N)nc21)COC(C)=O,1,1,0.8706268443972461,0.7913131335013509
+DICTrank,DICTrank,N=c1[n-]c2ccc(OC(F)(F)F)cc2s1,1,0,0.7171589486208765,0.7913131335013509
+DICTrank,DICTrank,C=CC1=C(C(=O)[O-])[NH+]2C(=O)C(=NC(=O)C([NH2+]OCC(=O)[O-])c3csc(=N)[n-]3)C2SC1,0,1,0.8075657965754436,0.7913131335013509
+DICTrank,DICTrank,CC1=C(C(=O)[O-])[NH+]2C(=O)C(NC(=O)C([NH3+])c3ccc([O-])cc3)C2SC1,0,0,0.7612142301764412,0.7913131335013509
+DICTrank,DICTrank,O=C1C(CCC(O)c2ccc(F)cc2)C(c2ccc([O-])cc2)[NH+]1c1ccc(F)cc1,0,0,0.7456339985016363,0.7913131335013509
+DICTrank,DICTrank,N=c1[n-]c(=N)c2nc(-c3ccccc3)c(=N)[n-]c2[n-]1,0,1,0.8601132623612587,0.7913131335013509
+DICTrank,DICTrank,COc1ccnc(C[S+](O)c2nc3cc(OC(F)F)ccc3[n-]2)c1OC,0,1,0.8963106116452879,0.7913131335013509
+DICTrank,DICTrank,CC(=O)N=c1[n-]nc(S(N)(=O)=O)s1,0,1,0.8320734427704849,0.7913131335013509
+DICTrank,DICTrank,CC(=O)CC(c1ccccc1)c1c([O-])c2ccccc2oc1=O,0,1,0.911893574021689,0.7913131335013509
+DICTrank,DICTrank,Cc1nnc(SC=C2CSC3C(NC(=O)Cn4cnnn4)C(=O)[NH+]3C2C(=O)[O-])s1,0,1,0.8674941898469987,0.7913131335013509
+DICTrank,DICTrank,CC[NH+]1CC[NH+](C(=O)NC(C(=O)NC2C(=O)[NH+]3C2SC(C)(C)C3C(=O)[O-])c2ccccc2)C(=O)C1=O,0,1,0.8289196014076012,0.7913131335013509
+DICTrank,DICTrank,CON=C(C(=O)NC1C(=O)[NH+]2C(C(=O)[O-])=C(COC(N)=O)CSC12)c1ccco1,0,0,0.7489519785859438,0.7913131335013509
+DICTrank,DICTrank,COc1cc(C2c3cc4c(cc3C(OC3OC5COC(C)OC5C(O)C3O)C3COC(=O)C23)OCO4)cc(OC)c1[O-],0,1,0.8516587554132872,0.7913131335013509
+DICTrank,DICTrank,CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1,0,1,0.893700305023569,0.7913131335013509
+DICTrank,DICTrank,COc1cc(Cc2c[n-]c(=N)[n-]c2=N)cc(OC)c1OC,0,1,0.8677423997711972,0.7913131335013509
+DICTrank,DICTrank,COc1cc(C(=O)NCc2ccc(OCC[NH+](C)C)cc2)cc(OC)c1OC,0,0,0.7549337794682939,0.7913131335013509
+DICTrank,DICTrank,Clc1ccccc1C[NH+]1CCc2sccc2C1,0,0,0.6596667865181205,0.7913131335013509
+DICTrank,DICTrank,CCCC1CC(C(=O)NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)[NH+](C)C1,0,1,0.8003549133227067,0.7913131335013509
+DICTrank,DICTrank,Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[n-]cnc12,0,1,0.8545617803338409,0.7913131335013509
+DICTrank,DICTrank,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1C(NC(C)=O)CC2,0,1,0.9254077103544862,0.7913131335013509
+DICTrank,DICTrank,COC(=O)N=c1[n-]c2ccc(C(=O)c3ccccc3)cc2[n-]1,0,1,0.9040362623458363,0.7913131335013509
+DICTrank,DICTrank,CC(C)(C(=O)[O-])c1ccc(C(O)CCC[NH+]2CCC(C(O)(c3ccccc3)c3ccccc3)CC2)cc1,0,0,0.7876769297581009,0.7913131335013509
+DICTrank,DICTrank,CCC1(c2ccccc2)C(=O)NCNC1=O,0,1,0.923346272845549,0.7913131335013509
+DICTrank,DICTrank,CCOC(=O)[NH+]1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,0,1,0.8810236125601008,0.7913131335013509
+DICTrank,DICTrank,CCCSc1ccc2[n-]c(=NC(=O)OC)[n-]c2c1,0,1,0.9627775678412288,0.7913131335013509
+DICTrank,DICTrank,CCC[NH+](CCC)S(=O)(=O)c1ccc(C(=O)[O-])cc1,0,0,0.5800653113778855,0.7913131335013509
+DICTrank,DICTrank,CC[NH+](CC)C(=S)SSC(=S)[NH+](CC)CC,0,0,0.7604985954100235,0.7913131335013509
