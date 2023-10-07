@@ -1,0 +1,167 @@
+INFO: Pandarallel will run on 76 workers.
+INFO: Pandarallel will use Memory file system to transfer data between the main process and workers.
+cardiotox_with_sider_inactives
+1    416
+0    223
+Name: Cardiotox (with SIDER inactives), dtype: int64
+1    65
+0    25
+Name: Cardiotox (with SIDER inactives), dtype: int64
+n_iterations: 4
+n_required_iterations: 4
+n_possible_iterations: 4
+min_resources_: 20
+max_resources_: 639
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 31
+n_resources: 20
+Fitting 5 folds for each of 31 candidates, totalling 155 fits
+----------
+iter: 1
+n_candidates: 11
+n_resources: 60
+Fitting 5 folds for each of 11 candidates, totalling 55 fits
+----------
+iter: 2
+n_candidates: 4
+n_resources: 180
+Fitting 5 folds for each of 4 candidates, totalling 20 fits
+----------
+iter: 3
+n_candidates: 2
+n_resources: 540
+Fitting 5 folds for each of 2 candidates, totalling 10 fits
+cardiotox_with_sider_actives
+1    620
+0     90
+Name: Cardiotox (with SIDER actives), dtype: int64
+1    65
+0    25
+Name: Cardiotox (with SIDER actives), dtype: int64
+n_iterations: 4
+n_required_iterations: 4
+n_possible_iterations: 4
+min_resources_: 20
+max_resources_: 710
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 35
+n_resources: 20
+Fitting 5 folds for each of 35 candidates, totalling 175 fits
+----------
+iter: 1
+n_candidates: 12
+n_resources: 60
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+----------
+iter: 2
+n_candidates: 4
+n_resources: 180
+Fitting 5 folds for each of 4 candidates, totalling 20 fits
+----------
+iter: 3
+n_candidates: 2
+n_resources: 540
+Fitting 5 folds for each of 2 candidates, totalling 10 fits
+cardiotox_with_sider_all
+1    620
+0    223
+Name: Cardiotox (with SIDER all), dtype: int64
+1    65
+0    25
+Name: Cardiotox (with SIDER all), dtype: int64
+n_iterations: 4
+n_required_iterations: 4
+n_possible_iterations: 4
+min_resources_: 20
+max_resources_: 843
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 42
+n_resources: 20
+Fitting 5 folds for each of 42 candidates, totalling 210 fits
+----------
+iter: 1
+n_candidates: 14
+n_resources: 60
+Fitting 5 folds for each of 14 candidates, totalling 70 fits
+----------
+iter: 2
+n_candidates: 5
+n_resources: 180
+Fitting 5 folds for each of 5 candidates, totalling 25 fits
+----------
+iter: 3
+n_candidates: 2
+n_resources: 540
+Fitting 5 folds for each of 2 candidates, totalling 10 fits
+sider_cardiacdisorders
+1    585
+0    207
+Name: Cardiac disorders, dtype: int64
+1    63
+0    23
+Name: Cardiac disorders, dtype: int64
+n_iterations: 4
+n_required_iterations: 4
+n_possible_iterations: 4
+min_resources_: 20
+max_resources_: 792
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 39
+n_resources: 20
+Fitting 5 folds for each of 39 candidates, totalling 195 fits
+----------
+iter: 1
+n_candidates: 13
+n_resources: 60
+Fitting 5 folds for each of 13 candidates, totalling 65 fits
+----------
+iter: 2
+n_candidates: 5
+n_resources: 180
+Fitting 5 folds for each of 5 candidates, totalling 25 fits
+----------
+iter: 3
+n_candidates: 2
+n_resources: 540
+Fitting 5 folds for each of 2 candidates, totalling 10 fits
+DICTrank
+1    416
+0     90
+Name: DICTrank, dtype: int64
+1    65
+0    25
+Name: DICTrank, dtype: int64
+n_iterations: 3
+n_required_iterations: 3
+n_possible_iterations: 3
+min_resources_: 20
+max_resources_: 506
+aggressive_elimination: False
+factor: 3
+----------
+iter: 0
+n_candidates: 25
+n_resources: 20
+Fitting 5 folds for each of 25 candidates, totalling 125 fits
+----------
+iter: 1
+n_candidates: 9
+n_resources: 60
+Fitting 5 folds for each of 9 candidates, totalling 45 fits
+----------
+iter: 2
+n_candidates: 3
+n_resources: 180
+Fitting 5 folds for each of 3 candidates, totalling 15 fits

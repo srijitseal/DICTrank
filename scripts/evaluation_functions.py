@@ -2,7 +2,7 @@
 # coding: utf-8
 
 
-from sklearn.metrics import roc_auc_score, matthews_corrcoef, average_precision_score, confusion_matrix
+from sklearn.metrics import roc_auc_score, matthews_corrcoef, average_precision_score, confusion_matrix, f1_score
 from sklearn.metrics import roc_curve
 import math
 import numpy as np
@@ -12,6 +12,7 @@ def evaluate_classifier(true_labels, predictions, probs):
     auc = roc_auc_score(true_labels, probs)
     mcc = matthews_corrcoef(true_labels, predictions)
     avg_precision = average_precision_score(true_labels, probs)
+    f1 = f1_score(true_labels, predictions)
     tn, fp, fn, tp = confusion_matrix(true_labels, predictions).ravel()
     spe = tn / (tn + fp)
     sen = tp / (tp + fn)
@@ -21,7 +22,9 @@ def evaluate_classifier(true_labels, predictions, probs):
             'Held_out_BA': ba,
             'Held_out_AUC': auc, 'Held_out_MCC': mcc, 
             'Held_out_AUCPR': avg_precision, 'Held_out_Specificity': spe,
-            'Held_out_Sensitivity': sen}
+            'Held_out_Sensitivity': sen,
+            'Held_out_F1': f1
+           }
 
 
 def optimize_threshold_j_statistic(y_true, y_probs):
