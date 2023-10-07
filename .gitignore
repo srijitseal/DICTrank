@@ -2,6 +2,6 @@ data/CellPainting/Cell_Painting_Median_Features_Median_doses.csv.gz
 data/CellPainting/CellPainting_processed.csv.gz
 data/GeneOntology/GeneOntology_processed.csv.gz
 data/LINCSL1000/LINCS_Gene_Experssion_signatures_CD.csv.gz
-data/PIDGINv4/Cardiotox_sider_target_pred.txt
+data/CellScape/Cardiotox_sider_target_pred.txt
 data/GeneOntology/GO_transformed_signatures_PAEA.csv.gz
 
