@@ -40,7 +40,7 @@ cmax_dict
 
 
 data_path = '../data/processed_binarised__splits/'
-csv_file_path = '../data/processed_feature_selected/MOA/MOA_processed_feature_selected_moa_cols.csv.gz'
+csv_file_path = '../data/processed_feature_selected/MOA/MOA_processed_feature_selected_moa_target_cols.csv.gz'
 
 def create_molecule_dict(csv_file_path):
     molecule_dict = {}
@@ -50,7 +50,7 @@ def create_molecule_dict(csv_file_path):
         for line in f:
             data = line.strip().split(',')
             smiles = data[0]
-            features = np.array(data[1:265 ], dtype=float)
+            features = np.array(data[1:715 ], dtype=float)
             molecule_dict[smiles] = features
     
     return molecule_dict
