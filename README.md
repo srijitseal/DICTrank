@@ -1,2 +1,5 @@
-# My Project
-This is a description of my project on predicnint DICTrank FDA dataset
+# Insights into Drug Cardiotoxicity from Biological and Chemical Data: The First Public Classifiers for FDA Drug-Induced Cardiotoxicity Rank
+Drug-induced cardiotoxicity (DICT) is a major concern in drug development, accounting for 10–14% of postmarket withdrawals. In this study, we explored the capabilities of chemical and biological data to predict cardiotoxicity, using the recently released DICTrank data set from the United States FDA. We found that such data, including protein targets, especially those related to ion channels (e.g., hERG), physicochemical properties (e.g., electrotopological state), and peak concentration in plasma offer strong predictive ability for DICT. Compounds annotated with mechanisms of action such as cyclooxygenase inhibition could distinguish between most-concern and no-concern DICT. Cell Painting features for ER stress discerned most-concern cardiotoxic from nontoxic compounds. Models based on physicochemical properties provided substantial predictive accuracy (AUCPR = 0.93). With the availability of omics data in the future, using biological data promises enhanced predictability and deeper mechanistic insights, paving the way for safer drug development. All models from this study are available at https://broad.io/DICTrank_Predictor.
+
+
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c01834
